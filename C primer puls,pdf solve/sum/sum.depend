@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521176974 source:r:\all program\c primer puls,pdf solve\sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
